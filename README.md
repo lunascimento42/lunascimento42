@@ -21,5 +21,5 @@ I am always looking for opportunities to collaborate on interesting and challeng
 ### Skills
 
 - **Programming Languages**: Python, SQL
-- **Visualization Tools**: Tableau, Power BI
+- **Visualization Tools**: Tableau, Power BI, Grafana
 - **Other Tools**: Excel, Git

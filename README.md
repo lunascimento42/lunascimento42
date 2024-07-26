@@ -1,6 +1,6 @@
-## About Me
+# About Me
 
-Hello! I'm **Ana Luiza**, an industrial automation professional with over 4 years of experience at Ambev Vidros in Rio de Janeiro. I have a solid background in automation projects, ranging from network infrastructure setup in factories to machine data collection and analysis. Throughout my career, I have transformed raw data into valuable information to improve fault analysis, performance indicators, safety, and quality.
+ 😃 Hello! I'm **Ana Luiza**, an industrial automation professional with over 4 years of experience at Ambev Vidros in Rio de Janeiro. I have a solid background in automation projects, ranging from network infrastructure setup in factories to machine data collection and analysis. Throughout my career, I have transformed raw data into valuable information to improve fault analysis, performance indicators, safety, and quality.
 
 ### Interests and Goals
 

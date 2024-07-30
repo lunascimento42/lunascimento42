@@ -2,6 +2,8 @@
 
  😃 Hello! I'm **Ana Luiza**, an industrial automation professional with over 4 years of experience at Ambev Vidros in Rio de Janeiro. I have a solid background in automation projects, ranging from network infrastructure setup in factories to machine data collection and analysis. Throughout my career, I have transformed raw data into valuable information to improve fault analysis, performance indicators, safety, and quality.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analuizaferreira378/)     [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:falecomanaluizaferreira@gmail.com) 
+
 ### Interests and Goals
 
 I am currently transitioning to the data field, where I hope to apply my practical experience in industrial automation and my passion for data to solve complex problems and generate actionable insights. I am focused on expanding my skills in:
@@ -23,3 +25,5 @@ I am always looking for opportunities to collaborate on interesting and challeng
 - **Programming Languages**: Python, SQL
 - **Visualization Tools**: Tableau, Power BI, Grafana
 - **Other Tools**: Excel, Git
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lunascimento42&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) |  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
